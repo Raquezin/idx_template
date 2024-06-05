@@ -30,6 +30,8 @@
           python -m venv .venv
           source .venv/bin/activate
           pip install -r requirements.txt
+          chmod +x ./bin/get_public_ip.sh
+          bin/get_public_ip.sh
         '';
       };
       # To run something each time the workspace is (re)started, use the `onStart` hook
