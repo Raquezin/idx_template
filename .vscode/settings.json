@@ -1,0 +1,41 @@
+{
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+    "terminal.integrated.localEchoLatencyThreshold": -1,
+    "terminal.integrated.localEchoEnabled": "off",
+        
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.shellIntegration.enabled": true,
+    "workbench.statusBar.visible": true, // barra de abajo  (false)
+
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.sideBar.location": "right",
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {}
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    
+    "editor.guides.bracketPairs": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.fontLigatures": true,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.linkedEditing": true,
+    "editor.formatOnSave": true,
+    "editor.glyphMargin": false,
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.cursorBlinking": "expand",
+    "editor.autoClosingBrackets": "always",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "'Cascadia Code PL', 'Consolas', 'Courier New', 'monospace'",
+    
+    "breadcrumbs.enabled": false,
+
+    "oneDarkPro.vivid": true,
+    "oneDarkPro.editorTheme": "One Dark Pro Darker",
+    "oneDarkPro.bold": true,
+    "files.autoSave": "afterDelay",
+}
